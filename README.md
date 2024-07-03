@@ -20,11 +20,11 @@ Obsidian Hive Mind is a collaborative note-sharing and syncing plugin for Obsidi
 
 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/obsidian-hive-mind.git
+git clone https://github.com/avijit-dhaliwal/obsidianhivemind.git
 ```
 2. Navigate to the plugin directory:
 ```bash
-cd obsidian-hive-mind
+cd obsidianhivemind
 ```
 3. Install dependencies:
 ```bash
@@ -36,7 +36,7 @@ npm run build
 ```
 5. Copy the `main.js`, `manifest.json`, and `styles.css` files to your Obsidian vault's plugins folder:
 ```bash
-cp main.js manifest.json styles.css /path/to/your/vault/.obsidian/plugins/obsidian-hive-mind/
+cp main.js manifest.json styles.css /path/to/your/vault/.obsidian/plugins/obsidianhivemind/
 ```
 6. Restart Obsidian and enable the "Hive Mind" plugin in the Community Plugins settings.
 
