@@ -1,0 +1,20 @@
+.hive-mind-view {
+    padding: 20px;
+  }
+  
+  .hive-mind-view h2 {
+    margin-bottom: 20px;
+  }
+  
+  .hive-mind-view ul {
+    list-style-type: none;
+    padding-left: 20px;
+  }
+  
+  .hive-mind-view li {
+    margin-bottom: 10px;
+  }
+  
+  .hive-mind-view strong {
+    font-size: 1.1em;
+  }

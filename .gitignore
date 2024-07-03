@@ -1,0 +1,30 @@
+# Dependency directories
+node_modules/
+
+# Build output
+main.js
+*.js.map
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Obsidian files
+.obsidian/
+
+# Environment files
+.env
